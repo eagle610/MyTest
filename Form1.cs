@@ -19,7 +19,7 @@ namespace MyTest
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            MessageBox.Show("12");
         }
     }
 }
